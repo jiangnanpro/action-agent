@@ -1,0 +1,11 @@
+# python cache and environment
+__pycache__/
+*.pyc
+.venv/
+
+# IDE config
+.vscode/
+.idea/
+
+# System file
+.DS_Store
